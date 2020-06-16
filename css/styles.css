@@ -1,0 +1,14 @@
+.nav-item {
+  color: black;
+  margin-top: 0.5em;
+}
+.boxTitle {
+  margin-top: 2em;
+  text-align: center;
+}
+.container {
+  width: 80%;
+}
+.col-auto {
+  background-color: bisque;
+}
